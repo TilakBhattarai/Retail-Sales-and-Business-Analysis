@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Data files - do not publish until license is verified
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
